@@ -104,3 +104,42 @@ brew install zopfli
 
 # Remove outdated versions from the cellar.
 brew cleanup
+
+# Casks
+#brew cask adobe-creative-cloud
+#brew cask evernote
+#brew cask java
+#brew cask slack
+#brew cask transmit
+#brew cask atom
+#brew cask firefox
+#brew cask kitematic
+#brew cask sonos
+#brew cask vagrant
+#brew cask charles
+#brew cask forklift
+#brew cask macdown
+#brew cask sourcetree
+#brew cask virtualbox
+#brew cask colorsnapper
+#brew cask genymotion
+#brew cask menubar-colors
+#brew cask spectacle
+#brew cask vlc
+#brew cask cyberduck
+#brew cask google-chrome
+#brew cask navicat-for-mariadb
+#brew cask spotify
+#brew cask disk-inventory-x
+#brew cask handbrake
+#brew cask postman
+#brew cask sublime-text
+#brew cask xquartz
+#brew cask dropbox
+#brew cask hyperterm
+#brew cask recordit
+#brew cask telegram
+#brew cask dupeguru
+#brew cask intellij-idea
+#brew cask sketchup
+#brew cask totalfinder
